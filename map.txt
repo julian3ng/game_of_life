@@ -1,0 +1,19 @@
+Lightweight spaceship
+ #   #
+      #
+ #    #
+  #####
+
+Middleweight spaceship
+   #
+ #   #
+      #
+ #    #
+  #####
+
+Heavyweight spaceship
+  ##
+#    # 
+      #
+#     #
+ ######
